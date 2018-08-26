@@ -1,0 +1,2 @@
+D:\Rakhi\Blogs\CoreAppWithDocker\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Projects\Research\Docker\CoreAppWithDocker\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+D:\Projects\COE\Docker\Demo\CoreAppWithDocker\CoreAppWithDocker
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=CoreAppWithDocker
+--content-root=D:\Projects\COE\Docker\Demo\CoreAppWithDocker\CoreAppWithDocker
+--file=

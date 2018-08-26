@@ -1,0 +1,11 @@
+services:
+  coreappwithdocker:
+    build:
+      context: D:\Projects\COE\Docker\Demo\CoreAppWithDocker\CoreAppWithDocker
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: coreappwithdocker
+    ports:
+    - target: 83
+version: '3.4'
